@@ -1,0 +1,77 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-16 13:35:48 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:36:44 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:36:53 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:39:08 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:39:41 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:39:48 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:39:51 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:39:52 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:06 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:08 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:10 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:12 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:13 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:18 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:21 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:25 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:27 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:43:37 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:47:46 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:47:51 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:47:52 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:47:58 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:47:58 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:48:00 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:49:25 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:49:26 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:49:28 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:55:45 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:56:23 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:56:23 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:56:25 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:56:38 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:56:41 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:16 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:19 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:19 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:32 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:34 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:35 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:36 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:36 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:47 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:50 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:51 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:58:53 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:59:20 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:59:22 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 13:59:22 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:03 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:06 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:06 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:08 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:11 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:11 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:18 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:25 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:48 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:49 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:00:52 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:01:06 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:02:59 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:03:50 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:07:06 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:09:51 --> 404 Page Not Found: Assets/front_end
+ERROR - 2018-09-16 14:09:51 --> 404 Page Not Found: Assets/front_end
+ERROR - 2018-09-16 14:10:24 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:10:27 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:10:43 --> 404 Page Not Found: Assets/front_end
+ERROR - 2018-09-16 14:10:43 --> 404 Page Not Found: Assets/front_end
+ERROR - 2018-09-16 14:10:59 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:11:00 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:11:01 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:11:09 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:11:10 --> Language file contains no data: language/english/message_lang.php
+ERROR - 2018-09-16 14:11:11 --> Language file contains no data: language/english/message_lang.php
